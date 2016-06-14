@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277427051645",
+    "firebase_url": "https://fastercontent.firebaseio.com",
+    "project_id": "project-4514137722534391999",
+    "storage_bucket": "project-4514137722534391999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277427051645:android:6f2d493cd8e44ff2",
+        "android_client_info": {
+          "package_name": "com.fastercontent.fastercontent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277427051645-66eac5kjpg8jl5s90rgdch8da4lmsmcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRa4D48D5TMpKpTKJEMcuy0C4LbTuVzLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
